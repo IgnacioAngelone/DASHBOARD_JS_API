@@ -6,7 +6,7 @@ MAIN COMMITS
 2/8 -> "#1 Folder structure" -> Creación de la estructura
 2/8 -> "#2 Folder structure" -> Modificacion de arhivos y directorios
 2/9 -> "#3 Folder structure" -> Modificacion de arhivos en los directorios
-2/9 -> "#1 Components" -> Desarrollo de componentes
+2/9 -> "#1 Components - template shop" -> Desarrollo de componentes
 
 CONTROL COMMITS
 ---------------
