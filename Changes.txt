@@ -5,9 +5,10 @@ MAIN COMMITS
 2/8 -> "#1 Commit readme changes" -> Creación del readme
 2/8 -> "#1 Folder structure" -> Creación de la estructura
 2/8 -> "#2 Folder structure" -> Modificacion de arhivos y directorios
-3/8 -> "#3 Folder structure" -> Modificacion de arhivos en los directorios
-
+2/9 -> "#3 Folder structure" -> Modificacion de arhivos en los directorios
+2/9 -> "#1 Components" -> Desarrollo de componentes
 
 CONTROL COMMITS
 ---------------
 2/8 -> "#1 Control commit inicial" -> Creación del changes.txt
+2/9 -> "#1 Folder structure" -> Creación de structure.txt
