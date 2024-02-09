@@ -2,8 +2,9 @@ MAIN COMMITS
 ------------
 2/8 -> "Initial commit" -> Creación del repositorio
 2/8 -> "Initial commit" -> Creación del proyecto
-2/8 -> "Commit readme changes #1" -> Creación del readme
+2/8 -> "#1 Commit readme changes" -> Creación del readme
+2/8 -> "#1 Structure" -> Creación de la estructura
 
 CONTROL COMMITS
 ---------------
-2/8 -> "Control commit inicial" -> Creación del changes.txt
+2/8 -> "#1 Control commit inicial" -> Creación del changes.txt
