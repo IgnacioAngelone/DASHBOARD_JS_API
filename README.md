@@ -6,12 +6,35 @@
 ![Static Badge](https://img.shields.io/badge/-nodejsbadge?style=for-the-badge&logo=nodedotjs&logoColor=%23%23339933&label=nodejs&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/-javascriptbadge?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&label=javascript&labelColor=black&color=black)
 
-
 # < <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="55" /> >  Fortnite readme
 
 ## Overview
 
 Welcome to the Real-Time Fortnite Dashboard! This project utilizes the official Epic Games API to provide live updates from the Fortnite universe. Whether you're interested in checking out the current in-game store, exploring the official page, or keeping an eye on the ever-changing map, this dashboard has you covered.
+
+<br>
+
+## Directory board
+
+```
+└── 📁Source-code
+    └── .eslintrc.cjs
+    └── .gitignore
+    └── package-lock.json
+    └── package.json
+    └── 📁public
+        └── 📁assets
+            └── 📁images
+                └── Background-shop.webp
+                └── Logo-epic.webp
+            └── 📁styles
+                └── index.css
+        └── index.html
+    └── 📁src
+        └── 📁components
+        └── index.jsx
+    └── vite.config.js
+```
 
 <br>
 
@@ -49,12 +72,12 @@ Contributions are welcome! If you have ideas for new features, improvements, or 
 
 ## License
 
-This is free and unencumbered software released into the public domain.
-
-Anyone is free to copy, modify, publish, use, compile, sell, or
+This is free and unencumbered software released into the public domain. Anyone is free to copy, modify, publish, use, compile, sell, or
 distribute this software, either in source code form or as a compiled
 binary, for any purpose, commercial or non-commercial, and by any
 means.
+
+<br>
 
 In jurisdictions that recognize copyright laws, the author or authors
 of this software dedicate any and all copyright interest in the
@@ -63,6 +86,8 @@ of the public at large and to the detriment of our heirs and
 successors. We intend this dedication to be an overt act of
 relinquishment in perpetuity of all present and future rights to this
 software under copyright law.
+
+<br>
 
 For more information, please refer to <https://unlicense.org>
 
