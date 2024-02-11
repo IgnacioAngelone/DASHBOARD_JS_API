@@ -5,7 +5,7 @@ import "../styles/foot.css";
 export default function Foot(){
   return (
      <footer>
-         <p>copyright | all reserved for nothing</p>
+         <p>No copyright | No rights reserved, free to use</p>
      </footer>
   )
 }

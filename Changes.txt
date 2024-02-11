@@ -7,8 +7,15 @@ MAIN COMMITS
 2/8 -> "#2 Folder structure" -> Modificacion de arhivos y directorios
 2/9 -> "#3 Folder structure" -> Modificacion de arhivos en los directorios
 2/9 -> "#1 Components - template shop" -> Desarrollo de componentes
+2/9 -> "#2 Components - main, foot, navbar" -> Desarrollo de componentes
+2/11 -> "#3 Components - all components" -> Desarrollo de componentes
 
 CONTROL COMMITS
 ---------------
 2/8 -> "#1 Control commit inicial" -> Creación del changes.txt
 2/9 -> "#1 Folder structure" -> Creación de structure.txt
+2/9 -> "#1 Readme modify" -> Modificacion del readme
+
+ISSUES COMMITS
+--------------
+2/9 -> "Delete .vite directory" -> Vite creo archivos random
