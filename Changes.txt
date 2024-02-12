@@ -10,6 +10,7 @@ MAIN COMMITS
 2/9 -> "#2 Components - main, foot, navbar" -> Desarrollo de componentes
 2/11 -> "#3 Components - all components" -> Desarrollo de componentes
 2/12 -> "#4 Components - all components" -> Desarrollo de componentes
+2/12 -> "#5 Components - all components" -> Desarrollo de componentes
 
 CONTROL COMMITS
 ---------------
