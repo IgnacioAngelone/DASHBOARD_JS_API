@@ -1,0 +1,72 @@
+@font-face {
+font-family: 'Fortnite';
+src: url("../assets/fonts/Fortnite-font.otf") format('opentype');}
+
+@font-face {
+font-family: 'Inter';
+src: url("../assets/fonts/Inter-font.ttf") format('opentype');
+}    
+
+header {
+background-image: url("../assets/images/Background-shop.webp");
+background-size: cover;
+background-image: no-repeat;
+height: 100dvh;
+width: 100%;
+overflow: hidden;
+display: flex;
+justify-content: center;
+padding: 10rem 0 0 10rem;
+flex-direction: column;
+align-items: flex-start;
+z-index: 1;
+}
+
+article{
+color: white;
+display: flex;
+flex-direction: column;
+gap: 1rem;
+z-index: 2;
+height: 20rem;
+width: 25rem;
+text-wrap: wrap;
+}
+
+article h1{
+
+font-family: 'Fortnite';
+font-size: 4rem;
+text-shadow: 10px 10px black;
+}
+
+article p{
+
+font-family: "Inter";
+text-wrap: wrap;
+text-shadow: 5px 5px 2px black;
+
+}
+
+article button{
+font-family: "Inter";
+transition: transform 1s ease, background 1s ease, color 1s ease;
+height: 3rem;
+width: 7rem;
+border-radius: 0.7rem;
+color: black;
+font-size: 1.1rem;
+font-weight: bold;
+margin-top: 1rem;
+background: linear-gradient(to bottom right,#F7FF19, #faff75);
+box-shadow: 0px 0px 30px rgba(0, 0, 0, 1.5);
+border: 1px solid rgba(0, 0, 0, 0.5);
+
+}
+
+article button:hover{
+transform: translateX(0.2rem);
+background: linear-gradient(to bottom right,#1B90DD, #5FCEEA);
+color: white;
+cursor: pointer;
+}

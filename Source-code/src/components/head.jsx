@@ -1,6 +1,7 @@
+/* eslint-disable react/no-unescaped-entities */
 /* eslint-disable no-unused-vars */
 import React from 'react';
-import "../styles/foot.css";
+import "../styles/head.css";
 
 export default function Head(){
   return (
@@ -8,7 +9,7 @@ export default function Head(){
 
        <article>
          <h1><strong>MORE FUN, LESS GRIND!</strong></h1>
-         <p>One of the best games anyones ever played, hands down</p>
+         <p>"One of the best games anyones ever played, hands down and fire!"</p>
          <button>skins</button>
        </article>
 

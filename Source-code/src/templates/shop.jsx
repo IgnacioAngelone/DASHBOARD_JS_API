@@ -1,6 +1,5 @@
 /* eslint-disable no-unused-vars */
 import React from "react";
-import "../styles/template-shop.css";
 import Navbar from "../components/navbar";
 import Head from "../components/head";
 import Main from "../components/main";

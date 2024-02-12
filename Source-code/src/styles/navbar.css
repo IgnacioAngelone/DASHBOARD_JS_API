@@ -1,0 +1,54 @@
+@font-face {
+font-family: 'Inter';
+src: url("../assets/fonts/Inter-font.ttf") format('opentype');
+}    
+
+.nav{
+font-family: "Inter", sans-serif;
+position: fixed;
+display: flex;
+width: 100dvw;
+height: 8dvh;
+backdrop-filter: blur(20px);
+background-color: rgba(0, 0, 0, 0.25);
+justify-content: center;
+box-shadow: 0 10px 20px rgba(0, 0, 0, 0.65);
+border: 1px solid rgba(0, 0, 0, 0.15);
+z-index: 3;
+}
+
+.nav ol{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left: -1rem;
+margin-right: -1rem;
+gap: 6rem;
+width: 35rem;
+height: 100%;
+}
+
+.nav ol li{
+list-style: none;
+}
+
+.nav ol li a{
+text-decoration: none;
+color: #ffffff;
+font-weight: 400;
+}
+
+.nav ol li a:hover{
+transform: translateY(-0.5rem);
+}
+
+.nav_img img{
+height: 12rem;
+width: 12rem;
+margin-top: -1.5rem;
+transition: transform 0.3s ease; 
+}
+
+.nav_img img:hover{
+transform: translateY(0.5rem);
+}

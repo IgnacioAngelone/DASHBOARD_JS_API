@@ -5,7 +5,8 @@ import "../styles/foot.css";
 export default function Foot(){
   return (
      <footer>
-         <p>No copyright | No rights reserved, free to use</p>
-     </footer>
+         <p>NO COPYRIGHT | NO RIGHTS RESERVED | FREE TO USE</p>
+         <img src="assets/images/ScanQR2.webp" alt="QR" />
+     </footer>  
   )
 }
