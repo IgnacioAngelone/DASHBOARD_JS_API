@@ -11,12 +11,14 @@ MAIN COMMITS
 2/11 -> "#3 Components - all components" -> Desarrollo de componentes
 2/12 -> "#4 Components - all components" -> Desarrollo de componentes
 2/12 -> "#5 Components - all components" -> Desarrollo de componentes
+2/12 -> "#6 Components - all components" -> Desarrollo de componentes
 
 CONTROL COMMITS
 ---------------
 2/8 -> "#1 Control commit inicial" -> Creación del changes.txt
 2/9 -> "#1 Folder structure" -> Creación de structure.txt
 2/9 -> "#1 Readme modify" -> Modificacion del readme
+2/14 -> "#1 GH Pages deploy" -> GH pages deploy
 
 ISSUES COMMITS
 --------------
