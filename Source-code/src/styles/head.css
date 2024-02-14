@@ -1,14 +1,14 @@
 @font-face {
 font-family: 'Fortnite';
-src: url("../assets/fonts/Fortnite-font.otf") format('opentype');}
+src: url("/assets/fonts/Fortnite-font.otf") format('opentype');}
 
 @font-face {
 font-family: 'Inter';
-src: url("../assets/fonts/Inter-font.ttf") format('opentype');
+src: url("/assets/fonts/Inter-font.ttf") format('opentype');
 }    
 
 header {
-background-image: url("../assets/images/Background-shop.webp");
+background-image: url("/assets/images/Background-shop.webp");
 background-size: cover;
 background-image: no-repeat;
 height: 100dvh;
