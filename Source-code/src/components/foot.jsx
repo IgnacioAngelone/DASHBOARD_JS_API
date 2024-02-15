@@ -6,7 +6,7 @@ export default function Foot(){
   return (
      <footer>
          <p>NO COPYRIGHT | NO RIGHTS RESERVED | FREE TO USE</p>
-         <img src="assets/images/ScanQR2.webp" alt="QR" />
+         <img src="assets/images/ScanQR2.webp" alt="QR" loading='lazy'/>
      </footer>  
   )
 }

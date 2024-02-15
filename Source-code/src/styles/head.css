@@ -1,3 +1,7 @@
+header, article, p, h1, button{
+font-family: 'Courier New', Courier, monospace;
+}
+
 @font-face {
 font-family: 'Fortnite';
 src: url("/assets/fonts/Fortnite-font.otf") format('opentype');}
