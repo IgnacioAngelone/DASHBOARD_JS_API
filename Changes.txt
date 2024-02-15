@@ -14,6 +14,9 @@ MAIN COMMITS
 2/12 -> "#6 Components - all components" -> Desarrollo de componentes
 2/15 -> "#7 Components - link fix" -> Arreglo de rendimiento general
 2/15 -> "#8 Components - all components" -> Desarrollo de componentes
+2/15 -> "#9 Components - all components" -> Desarrollo de componentes
+2/15 -> "#10 Components - all components" -> Desarrollo de componentes
+
 
 CONTROL COMMITS
 ---------------
