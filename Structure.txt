@@ -25,7 +25,7 @@
                 └── Inter-font.ttf
             └── 📁images
                 └── Background-shop.webp
-                └── Logo-epic.webp
+                └── Logo-epicpng.png
                 └── ScanQR2.webp
                 └── semantic html references.png
     └── 📁src

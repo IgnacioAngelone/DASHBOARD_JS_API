@@ -20,19 +20,48 @@ Welcome to the Real-Time Fortnite Dashboard! This project utilizes the official 
 └── 📁Source-code
     └── .eslintrc.cjs
     └── .gitignore
+    └── index.html
     └── package-lock.json
     └── package.json
     └── 📁public
         └── 📁assets
+            └── 📁fonts
+                └── Fortnite-font.otf
+                └── 📁Inter
+                    └── OFL.txt
+                    └── README.txt
+                    └── 📁static
+                        └── Inter-Black.ttf
+                        └── Inter-Bold.ttf
+                        └── Inter-ExtraBold.ttf
+                        └── Inter-ExtraLight.ttf
+                        └── Inter-Light.ttf
+                        └── Inter-Medium.ttf
+                        └── Inter-Regular.ttf
+                        └── Inter-SemiBold.ttf
+                        └── Inter-Thin.ttf
+                └── Inter-font.ttf
             └── 📁images
                 └── Background-shop.webp
-                └── Logo-epic.webp
-            └── 📁styles
-                └── index.css
-        └── index.html
+                └── Logo-epicpng.png
+                └── ScanQR2.webp
+                └── semantic html references.png
     └── 📁src
         └── 📁components
+            └── foot.jsx
+            └── head.jsx
+            └── main.jsx
+            └── navbar.jsx
+            └── Timer.jsx
         └── index.jsx
+        └── 📁styles
+            └── foot.css
+            └── head.css
+            └── index.css
+            └── main.css
+            └── navbar.css
+        └── 📁templates
+            └── shop.jsx
     └── vite.config.js
 ```
 
