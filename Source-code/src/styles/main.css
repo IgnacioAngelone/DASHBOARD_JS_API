@@ -29,16 +29,16 @@ align-items: center;
 justify-content: center;
 flex-direction: column;
 
-     h1{
-         font-family: 'Fortnite';
-         font-size: 3.5rem;
-         font-weight: 400;
-     }
+}
 
-     h2{
-         font-family: 'Inter';
-         font-size: 1.5rem;
-         font-weight: 400;
-     }
+.section_clock h1{
+font-family: 'Fortnite';
+font-size: 3rem;
+font-weight: 400;
+}
 
+.section_clock h2{
+font-family: 'Inter';
+font-size: 1.5rem;
+font-weight: 400;
 }

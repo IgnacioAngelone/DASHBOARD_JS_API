@@ -31,3 +31,4 @@ ISSUES COMMITS
 --------------
 2/9 -> "Delete .vite directory" -> Vite creo archivos random
 2/14 -> "Assets path modify" -> Bug de enrutamiento de activos o recursos
+2/16 -> "Css nesting error" -> Error con nesting 
