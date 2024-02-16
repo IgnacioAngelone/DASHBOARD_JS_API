@@ -16,7 +16,7 @@ MAIN COMMITS
 2/15 -> "#8 Components - all components" -> Desarrollo de componentes
 2/15 -> "#9 Components - all components" -> Desarrollo de componentes
 2/15 -> "#10 Components - all components" -> Desarrollo de componentes
-
+2/16 -> "#1 Actualization" -> Actualizacion de nombres
 
 CONTROL COMMITS
 ---------------
