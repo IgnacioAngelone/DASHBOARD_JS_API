@@ -38,14 +38,14 @@ text-wrap: wrap;
 }
 
 article h1{
-
 font-family: 'Fortnite';
 font-size: 4rem;
-text-shadow: 10px 10px black;
+text-shadow: 7px 7px black;
 }
 
 article p{
-
+width: 19rem;
+text-wrap: balance;
 font-family: "Inter";
 text-wrap: wrap;
 text-shadow: 5px 5px 2px black;
