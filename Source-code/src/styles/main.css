@@ -1,7 +1,10 @@
 @font-face {
 font-family: 'Inter';
-src: url("/assets/fonts/Inter-font.ttf") format('opentype');
-} 
+src: url("/assets/fonts/interwoff.woff") format('woff');}   
+
+@font-face {
+font-family: 'Fortnite';
+src: url("/assets/fonts/fortnitewoff.woff") format('woff');}
 
 section{
 z-index: 2;
@@ -26,12 +29,16 @@ align-items: center;
 justify-content: center;
 flex-direction: column;
 
+     h1{
+         font-family: 'Fortnite';
+         font-size: 3.5rem;
+         font-weight: 400;
+     }
+
+     h2{
+         font-family: 'Inter';
+         font-size: 1.5rem;
+         font-weight: 400;
+     }
+
 }
-
-.section_clock h1{
-
-font-size: 1.7rem;
-font-family: "Inter";
-font-weight: 400;
-}
-

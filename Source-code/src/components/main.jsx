@@ -7,7 +7,7 @@ export default function Main(){
     return(
          <section>
              <article className="section_clock">
-                 <h1>TIME LEFT:</h1>
+                 <h1>NEXT SKINS IN!</h1>
                  <Timer />
              </article>
          </section>

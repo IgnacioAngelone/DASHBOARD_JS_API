@@ -1,10 +1,9 @@
 @font-face {
 font-family: 'Inter';
-src: url("/assets/fonts/Inter-font.ttf") format('opentype');
-}    
+src: url("/assets/fonts/interwoff.woff") format('woff');
+} 
 
 .nav{
-font-family: "Inter", sans-serif;
 position: fixed;
 display: flex;
 width: 100dvw;
@@ -33,6 +32,7 @@ list-style: none;
 }
 
 .nav ol li a{
+font-family: 'Inter';
 text-decoration: none;
 color: #ffffff;
 font-weight: 400;

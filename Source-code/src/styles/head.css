@@ -4,12 +4,11 @@ font-family: 'Courier New', Courier, monospace;
 
 @font-face {
 font-family: 'Fortnite';
-src: url("/assets/fonts/Fortnite-font.otf") format('opentype');}
+src: url("/assets/fonts/fortnitewoff.woff") format('woff');}
 
 @font-face {
 font-family: 'Inter';
-src: url("/assets/fonts/Inter-font.ttf") format('opentype');
-}    
+src: url("/assets/fonts/interwoff.woff") format('woff');}    
 
 header {
 background-image: url("/assets/images/Background-shop.webp");

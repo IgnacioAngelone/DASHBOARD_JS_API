@@ -36,9 +36,9 @@ export default function Clock() {
 
   return (
     <div>
-      <h1>
+      <h2>
         {tiempoRestante.horas} HOURS, {tiempoRestante.minutos} MINUTES AND {tiempoRestante.segundos} SECONDS.
-      </h1>
+      </h2>
     </div>
   );
 }
